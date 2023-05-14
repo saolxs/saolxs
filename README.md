@@ -16,6 +16,22 @@ I am a growth-oriented Postgraduate Student whose research focuses on the applic
 
 ---
 
+
+
+### Let's Connect 
+<!-- Edit this to include your website
+[![website](./img/globe-light.svg)](https://www.thabeloramabulana.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.thabeloramabulana.com#gh-dark-mode-only)
+&nbsp;&nbsp; -->
+[![website](./img/twitter-light.svg)](https://twitter.com/saolxs/#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/saolxs/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saol/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saol/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/saolxs/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/saolxs/#gh-dark-mode-only)
+---
 <br>
 <br>
 
@@ -35,28 +51,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img align="left" alt="Git" width="45px" height=40 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />     
 <img align="left" alt="Git" width="45px" height=40 style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" />
 <img align="left" alt="Git" width="45px" height=40 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+---
+
+<br>
+<br>
 
 ### Github Stats 📈
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=saolxs&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
 
----
 
-### Let's Connect 
-<!-- Edit this to include your website
-[![website](./img/globe-light.svg)](https://www.thabeloramabulana.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.thabeloramabulana.com#gh-dark-mode-only)
-&nbsp;&nbsp; -->
-[![website](./img/twitter-light.svg)](https://twitter.com/saolxs/#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/saolxs/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saol/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saol/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/saolxs/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/saolxs/#gh-dark-mode-only)
----
 
 <!---
 saolxs/saolxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
