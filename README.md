@@ -1,5 +1,7 @@
 ## Hello, My name is Samuel 👋🏾
-I am a Software Engineer pursuing an MSc by Research in Computer Science while utilizing knowledge from my Bachelor's and Honors degrees to develop cutting-edge software. Committed to continuous learning, I hold certifications in AWS, GCP, and Cybersecurity, with additional training in CCNA and DevOps. My academic journey is complemented by hands-on projects and experience in leadership and project management. I've successfully led diverse projects, ensuring timely delivery and showcasing strong problem-solving and leadership skills. 
+I am a Software Engineer with a specialization in developing and maintaining cutting-edge Accounting software. Currently, I am furthering my expertise through an MSc by Research in Computer Science, with a focus on Deep Reinforcement Learning for Portfolio Optimization. 
+
+I hold associate-level certifications in GCP, AWS, and Cybersecurity, complemented by additional training in CCNA and DevOps. Within the Engineering Unit of Syft Analytics, my expertise lies in Integration architecture and development. My journey is complemented by hands-on projects and experience in leadership and project management. I've successfully led diverse projects, ensuring timely delivery and showcasing strong problem-solving and leadership skills. 
 
 My collaborative approach and effective communication enable me to thrive in both individual and team environments. With a blend of academic excellence, technical proficiency, and practical leadership, I am eager to apply my expertise and contribute to meaningful projects in dynamic environments.
 
