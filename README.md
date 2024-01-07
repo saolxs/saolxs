@@ -13,9 +13,14 @@ My collaborative approach and effective communication enable me to thrive in bot
 - 👽 Fun Fact: I love exploring new fields and learning about the world
 ---
 
-### Blog Posts 📚
+### Blog Posts / Notes 📚
 <!-- BLOG-POST-LIST:START -->
-- [AWS Certified Cloud Practitioner (CLF-C01) | Exam Tips (2023)]([https://blog.thabeloramabulana.com/what-is-cloud](https://medium.com/@samuel-oladejo/aws-certified-cloud-practitioner-clf-c01-exam-tips-723b2e3a4cac))
+- [AWS Certified Developer Associate (DVA-C02) | Exam Notes (2023)]([https://saol-labs.notion.site/AWS-DVA-e92b98376bba4b40abd0e2ccb809e3de])
+- [ISC2 CC CyberSecurity | Exam Notes (2023)]([https://saol-labs.notion.site/ISC2-CC-CyberSecurity-Completed-2ed15b26c5bc434abc31b53c41a81fc7])
+- [Financial Accounting | Notes (2023)]([https://saol-labs.notion.site/Financial-Accounting-b4206bee65074b4cac73dbd505015ea1])
+- [API Design and Integration | Notes (2023)]([https://saol-labs.notion.site/API-Design-and-Integration-7265e5325bd3428abeae1176161e86a2])
+- [TypeScript | Notes (2023)]([https://saol-labs.notion.site/Udemy-TypeScript-55c3adabfd5740dba640c132c7ee2cfe])
+- [AWS Certified Cloud Practitioner (CLF-C01) | Exam Tips (2023)]([(https://medium.com/@samuel-oladejo/aws-certified-cloud-practitioner-clf-c01-exam-tips-723b2e3a4cac)])
 <!-- BLOG-POST-LIST:END-->
 
 ---
