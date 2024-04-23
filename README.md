@@ -3,7 +3,7 @@ I am a Software Engineer with a specialization in developing and maintaining cut
 
 ### About me 🙎🏾‍♂️
 - 👨🏾‍💻 I’m interested in Software Development, Deep Learning, Robotics, and Everything in between
-- 📝 I’m currently learning more on Kubernetes, AWS Cloud, and preparing for my AWS Developer Associate Certification
+- 📝 I’m currently learning more on Kubernetes, and AWS / GCP.
 - 👀 I’m looking to collaborate on projects in the Software Development, Cloud Computing, Deep Reinforcement Learning (DRL) and Dev-Ops fields
 - 📫 You can reach me on Twitter @saolxs
 - 👽 Fun Fact: I love exploring new fields and learning about the world
