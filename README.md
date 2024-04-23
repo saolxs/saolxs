@@ -33,8 +33,6 @@ I am a Software Engineer with a specialization in developing and maintaining cut
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saol/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saol/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/saolxs/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/saolxs/#gh-dark-mode-only)
 ---
 
 ### Tech Stack 🚨
