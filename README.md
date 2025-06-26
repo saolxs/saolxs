@@ -3,8 +3,8 @@ I am a Software Engineer with a specialization in developing and maintaining fin
 
 ### About me 🙎🏾‍♂️
 - 👨🏾‍💻 I’m interested in Software Development, Deep Learning, Robotics, and Everything in between
-- 📝 I’m currently learning more on Kubernetes, and AWS / GCP.
-- 👀 I’m looking to collaborate on projects in the Software Development, Cloud Computing, Deep Reinforcement Learning (DRL) and Dev-Ops fields
+- 📝 I’m currently learning more on System Design and the application of LLMs in existing software systems.
+- 👀 I’m looking to collaborate on projects in the Software Development, Cloud Computing, and Deep Reinforcement Learning (DRL).
 - 📫 You can reach me on Twitter @saolxs
 - 👽 Fun Fact: I love exploring new fields and learning about the world
 ---
