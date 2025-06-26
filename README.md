@@ -58,7 +58,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 
 ### Github Stats 📈
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saolxs&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saolxs&theme=dark)](https://git.io/streak-stats)
 
 
 
