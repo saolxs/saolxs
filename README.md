@@ -1,5 +1,5 @@
 ## Hello, My name is Samuel 👋🏾
-I am a Software Engineer with a specialization in developing and maintaining fintech software. Currently, I am furthering my expertise through an MSc by Research in Computer Science, with a focus on Deep Reinforcement Learning for Portfolio Optimization. 
+I am a Software Engineer with a specialization in developing and maintaining fintech systems. Currently, I am furthering my expertise through graduate research in Computer Science, with a focus on Deep Reinforcement Learning for Portfolio Optimization. 
 
 ### About me 🙎🏾‍♂️
 - 👨🏾‍💻 I’m interested in Software Development, Deep Learning, Robotics, and Everything in between
