@@ -1,5 +1,5 @@
 ## Hello, My name is Samuel 👋🏾
-I am a Software Engineer with a specialization in developing and maintaining fintech systems. Currently, I am furthering my expertise through graduate research in Computer Science, with a focus on Deep Reinforcement Learning for Portfolio Optimization. 
+I am a Software Engineer and graduate researcher with experience designing and deploying enterprise-grade fintech applications. My research focuses on the intersection of behavioral finance, neural forecasting, and reinforcement learning, developing novel frameworks for risk-aware autonomous trading systems that integrate investor risk preferences (risk-averse, risk-neutral, risk-loving) into reinforcement learning algorithms through sophisticated utility functions and risk-adjusted reward mechanisms.
 
 ### About me 🙎🏾‍♂️
 - 👨🏾‍💻 I’m interested in Software Development, Deep Learning, Robotics, and Everything in between
